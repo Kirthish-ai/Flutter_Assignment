@@ -1,4 +1,4 @@
-# Flutter & Dart Assignment Suite
+# Flutter & Dart Assignment 
 
 A modular collection of Dart and Flutter assignments covering foundational Object-Oriented Programming (OOP), asynchronous network simulations with null safety, and declarative UI development.
 
