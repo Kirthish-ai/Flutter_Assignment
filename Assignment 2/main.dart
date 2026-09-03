@@ -1,13 +1,13 @@
-import 'task1_class.dart';
-import 'task2_constructor.dart';
-import 'task3_methods.dart';
-import 'task4_inheritance.dart';
-import 'task5_mixin.dart';
-import 'task6_interface.dart';
-import 'task7_list.dart';
-import 'task8_map.dart';
-import 'task9_set.dart';
-import 'task10_library.dart';
+import '../Assignment 1/task1_class.dart';
+import '../Assignment 1/task2_constructor.dart';
+import '../Assignment 1/task3_methods.dart';
+import '../Assignment 1/task4_inheritance.dart';
+import '../Assignment 1/task5_mixin.dart';
+import '../Assignment 1/task6_interface.dart';
+import '../Assignment 1/task7_list.dart';
+import '../Assignment 1/task8_map.dart';
+import '../Assignment 1/task9_set.dart';
+import '../Assignment 1/task10_library.dart';
 
 void main() {
   print('--- Task 1 ---');
