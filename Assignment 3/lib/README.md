@@ -2,7 +2,6 @@
 
 A clean, modular profile card screen built with Flutter demonstrating core widget composition, layout structure, and custom theming.
 
-**Repository:** [https://github.com/Kirthish-ai/Flutter_Assignment.git](https://www.google.com/url?sa=E&source=gmail&q=https://github.com/Kirthish-ai/Flutter_Assignment.git)[cite: 1]
 
 ---
 
