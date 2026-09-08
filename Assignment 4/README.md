@@ -15,6 +15,8 @@ A responsive, multi-section dashboard application built with Flutter. It dynamic
 - **Material 3 Theming**: Built-in modern Material Design components.
 
 ---
+<img width="1470" height="956" alt="Screenshot 2026-09-07 at 1 58 26 PM" src="https://github.com/user-attachments/assets/1138c74f-48bb-4bb5-968e-90832c93f660" />
+
 
 ## Project Structure
 
@@ -22,3 +24,4 @@ A responsive, multi-section dashboard application built with Flutter. It dynamic
 lib/
 ├── main.dart             # Application entry point and root MaterialApp configuration
 └── dashboard_screen.dart # Core responsive dashboard logic and UI components
+
