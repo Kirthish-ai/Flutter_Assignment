@@ -26,3 +26,4 @@ A modern, responsive, and fully functional Todo List application built with Flut
 lib/
 ├── main.dart        # Application entry point, MaterialApp setup & root theme
 └── todo_screen.dart # TodoItem model, stateful business logic & main screen UI
+
