@@ -23,6 +23,11 @@ A modern, multi-screen Flutter application demonstrating **Named Routes navigati
 * 🎨 **Material 3 UI Design**: Custom color palette, rounded text fields, elevated profile card layout, and responsive UI.
 
 ---
+<img width="1181" height="702" alt="Screenshot 2026-09-18 at 2 32 29 PM" src="https://github.com/user-attachments/assets/81146f27-3874-4fca-ad5b-db5c090beef0" />
+<img width="1190" height="679" alt="Screenshot 2026-09-18 at 2 32 38 PM" src="https://github.com/user-attachments/assets/aecb6f22-a034-4465-a4cd-59069fdb887e" />
+<img width="1187" height="683" alt="Screenshot 2026-09-18 at 2 33 07 PM" src="https://github.com/user-attachments/assets/8043b52a-8dad-4ae1-8bf8-5c4fcd490301" />
+<img width="1183" height="694" alt="Screenshot 2026-09-18 at 2 33 20 PM" src="https://github.com/user-attachments/assets/135bb823-6819-4818-98c4-d3a187c475a7" />
+
 
 ## 📁 File Structure
 
