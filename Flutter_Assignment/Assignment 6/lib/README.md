@@ -75,3 +75,10 @@ Includes field properties for `id`, `name`, `category`, `price` (in INR), `icon`
 - **Language:** Dart
 - **State Management:** Ephemeral State (`setState`)
 
+<img width="1470" height="956" alt="Screenshot 2026-09-14 at 9 07 05 PM" src="https://github.com/user-attachments/assets/7abb2b7b-c7c6-435a-ab5c-db38d0ba4600" />
+<img width="1470" height="956" alt="Screenshot 2026-09-14 at 9 07 21 PM" src="https://github.com/user-attachments/assets/9a61a12c-8871-4e94-ba9f-109947c02c57" />
+<img width="1470" height="956" alt="Screenshot 2026-09-14 at 9 07 28 PM" src="https://github.com/user-attachments/assets/74891c3a-f7ac-437c-a65b-4f01053c09b1" />
+<img width="1470" height="956" alt="Screenshot 2026-09-14 at 9 07 34 PM" src="https://github.com/user-attachments/assets/a2ff9045-126f-49e0-9b26-6319aa017e6a" />
+<img width="1470" height="956" alt="Screenshot 2026-09-14 at 9 07 40 PM" src="https://github.com/user-attachments/assets/66914b01-e614-4cda-9d60-992df8ecf91f" />
+<img width="1470" height="956" alt="Screenshot 2026-09-14 at 9 07 47 PM" src="https://github.com/user-attachments/assets/1ed77bd9-f9f7-46ac-a915-e4c6e3016208" />
+
